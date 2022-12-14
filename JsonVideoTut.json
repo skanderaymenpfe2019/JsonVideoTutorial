@@ -6,6 +6,14 @@
     "tz_id": "Europe/London",
     "localtime": "2021-02-21 8:42",
     "text": "Partly cloudy",
-    "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png"}
+    "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png"},{
+      "name": "London",
+    "region": "City of London, Greater London",
+    "country": "United Kingdom",
+    "tz_id": "Europe/London",
+    "localtime": "2021-02-21 8:42",
+    "text": "Partly cloudy",
+    "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png"
+    }
   ]
 }
